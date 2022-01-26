@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5333c13-b280-4e22-b378-e9ed82b5d9f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UKndEmld6BuG0kXVzS3jLRjlp1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main (1)">
+    <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tubes_pbo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tubes_pbo_back_end" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tubes_pbo_back_end/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tubes_pbo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coba" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tubes_pbo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coba_timer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main (1)" />
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.coba" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5333c13-b280-4e22-b378-e9ed82b5d9f6" name="Default Changelist" comment="" />
+      <created>1575114239303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575114239303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1896" height="279" key="GridCell.Tab.0.bottom" timestamp="1575874739267">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1896" height="279" key="GridCell.Tab.0.bottom/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575874739267" />
+    <state width="1827" height="340" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1575750053130" />
+    <state width="1896" height="279" key="GridCell.Tab.0.center" timestamp="1575874739267">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1896" height="279" key="GridCell.Tab.0.center/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575874739267" />
+    <state width="1827" height="340" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1575750053130" />
+    <state width="1896" height="279" key="GridCell.Tab.0.left" timestamp="1575874739267">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1896" height="279" key="GridCell.Tab.0.left/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575874739267" />
+    <state width="1827" height="340" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1575750053129" />
+    <state width="1896" height="279" key="GridCell.Tab.0.right" timestamp="1575874739267">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1896" height="279" key="GridCell.Tab.0.right/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575874739267" />
+    <state width="1827" height="340" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1575750053130" />
+    <state width="1827" height="340" key="GridCell.Tab.1.bottom" timestamp="1575750053131">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="340" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1575750053131" />
+    <state width="1827" height="340" key="GridCell.Tab.1.center" timestamp="1575750053130">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="340" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1575750053130" />
+    <state width="1827" height="340" key="GridCell.Tab.1.left" timestamp="1575750053130">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="340" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1575750053130" />
+    <state width="1827" height="340" key="GridCell.Tab.1.right" timestamp="1575750053131">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="340" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1575750053131" />
+    <state x="488" y="209" width="1022" height="737" key="SettingsEditor" timestamp="1575741551889">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="2354" y="187" key="SettingsEditor/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575674092792" />
+    <state x="488" y="209" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1575741551889" />
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1575741374853">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1575741374853" />
+    <state x="658" y="259" key="search.everywhere.popup" timestamp="1575746441060">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1575746441060" />
+  </component>
+</project>
